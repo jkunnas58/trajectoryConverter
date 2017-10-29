@@ -2,4 +2,8 @@ Programming language: Python
 Python modules:
   -wxPython (gui app technology)
   -pandas
+  -py2exe? (maybe this for making .exe)
   
+  
+  Useful info for project:
+  https://stackoverflow.com/questions/5458048/how-to-make-a-python-script-standalone-executable-to-run-without-any-dependency 
